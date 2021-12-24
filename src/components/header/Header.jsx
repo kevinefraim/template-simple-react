@@ -12,7 +12,7 @@ class Header extends Component {
       <header>
         <div className="header-container">
           <div className="left-container">
-            <img src={headerImg} alt="" />
+            <img src={headerImg} />
             <ul className="menu-btn">
               <li>Inicio</li>
               <li>Blog</li>

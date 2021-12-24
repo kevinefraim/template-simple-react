@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/template-simple-react/static/css/main.4f7ab489.chunk.css",
-    "main.js": "/template-simple-react/static/js/main.2761b55a.chunk.js",
-    "main.js.map": "/template-simple-react/static/js/main.2761b55a.chunk.js.map",
+    "main.css": "/template-simple-react/static/css/main.af1451df.chunk.css",
+    "main.js": "/template-simple-react/static/js/main.e39d76e9.chunk.js",
+    "main.js.map": "/template-simple-react/static/js/main.e39d76e9.chunk.js.map",
     "runtime-main.js": "/template-simple-react/static/js/runtime-main.fa1b676d.js",
     "runtime-main.js.map": "/template-simple-react/static/js/runtime-main.fa1b676d.js.map",
     "static/css/2.4be38407.chunk.css": "/template-simple-react/static/css/2.4be38407.chunk.css",
-    "static/js/2.13ce5940.chunk.js": "/template-simple-react/static/js/2.13ce5940.chunk.js",
-    "static/js/2.13ce5940.chunk.js.map": "/template-simple-react/static/js/2.13ce5940.chunk.js.map",
+    "static/js/2.e5328d82.chunk.js": "/template-simple-react/static/js/2.e5328d82.chunk.js",
+    "static/js/2.e5328d82.chunk.js.map": "/template-simple-react/static/js/2.e5328d82.chunk.js.map",
     "index.html": "/template-simple-react/index.html",
     "static/css/2.4be38407.chunk.css.map": "/template-simple-react/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.4f7ab489.chunk.css.map": "/template-simple-react/static/css/main.4f7ab489.chunk.css.map",
-    "static/js/2.13ce5940.chunk.js.LICENSE.txt": "/template-simple-react/static/js/2.13ce5940.chunk.js.LICENSE.txt",
-    "static/media/logo-circular-texto.ad37c191.png": "/template-simple-react/static/media/logo-circular-texto.ad37c191.png"
+    "static/css/main.af1451df.chunk.css.map": "/template-simple-react/static/css/main.af1451df.chunk.css.map",
+    "static/js/2.e5328d82.chunk.js.LICENSE.txt": "/template-simple-react/static/js/2.e5328d82.chunk.js.LICENSE.txt",
+    "static/media/carrousel-1.9b34cf9c.jpg": "/template-simple-react/static/media/carrousel-1.9b34cf9c.jpg",
+    "static/media/carrousel-2.fd912352.jpg": "/template-simple-react/static/media/carrousel-2.fd912352.jpg",
+    "static/media/carrousel-3.424560c4.jpg": "/template-simple-react/static/media/carrousel-3.424560c4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fa1b676d.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.13ce5940.chunk.js",
-    "static/css/main.4f7ab489.chunk.css",
-    "static/js/main.2761b55a.chunk.js"
+    "static/js/2.e5328d82.chunk.js",
+    "static/css/main.af1451df.chunk.css",
+    "static/js/main.e39d76e9.chunk.js"
   ]
 }

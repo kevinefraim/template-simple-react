@@ -22,7 +22,7 @@ class Carrusel extends Component {
             <img className="d-block w-100" src={carrusel3} />
           </div>
           <div className="carousel-item">
-            <img className="d-block w-100" src={carrusel1} a />
+            <img className="d-block w-100" src={carrusel1} />
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src={carrusel2} />

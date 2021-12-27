@@ -14,7 +14,7 @@ class Cards extends Component {
     return (
       <div className="cards-container bg-warning ">
         <div class="card">
-          <img class="card-img-top " src={maggieImg} />
+          <img class="card-img-top " src={maggieImg} alt="character" />
           <div class="card-body">
             <h5 class="card-title">Maggie Simpson</h5>
             <p class="card-text">
@@ -26,7 +26,7 @@ class Cards extends Component {
         </div>
 
         <div class="card">
-          <img class="card-img-top " src={homerImg} />
+          <img class="card-img-top " src={homerImg} alt="character" />
           <div class="card-body">
             <h5 class="card-title">Homero Simpson</h5>
             <p class="card-text">
@@ -37,7 +37,7 @@ class Cards extends Component {
           </div>
         </div>
         <div class="card">
-          <img class="card-img-top " src={bartImg} />
+          <img class="card-img-top " src={bartImg} alt="character" />
           <div class="card-body">
             <h5 class="card-title">Bart Simpson</h5>
             <p class="card-text">

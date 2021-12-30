@@ -7,15 +7,17 @@ import Contacto from "./components/contacto/Contacto";
 
 function App() {
   return (
-    <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Inicio />} />
-        <Route path="/blog" element={<Blog />} />
-        <Route path="/contacto" element={<Contacto />} />
-      </Routes>
-      <Footer />
-    </Router>
+    <>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Inicio />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/contacto" element={<Contacto />} />
+        </Routes>
+        <Footer />
+      </Router>
+    </>
   );
 }
 

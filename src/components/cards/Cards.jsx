@@ -6,7 +6,7 @@ import homerImg from "../../img/homer.jpg";
 
 const Cards = () => {
   return (
-    <div className="cards-container bg-warning ">
+    <div className="cards-container  ">
       <div class="card">
         <img class="card-img-top " src={maggieImg} alt="character" />
         <div class="card-body">

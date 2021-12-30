@@ -6,6 +6,7 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  background-color: #edfa32;
 }
 .card {
   margin: 5px;

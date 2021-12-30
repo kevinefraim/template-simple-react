@@ -1,0 +1,20 @@
+.contact-container {
+  height: 74vh;
+  background: #edfa32;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-container {
+  background-color: #fff;
+  display: flex;
+  width: 550px;
+  padding: 30px;
+}
+.form-item {
+  display: flex;
+  margin: 10px;
+}
+.form-contacto {
+  width: 100%;
+}

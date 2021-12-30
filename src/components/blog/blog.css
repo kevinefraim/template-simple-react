@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.blog-container {
+  width: 100%;
+  padding: 50px;
+  background-color: #edfa32;
+}
+.blog-item {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.blog-item img {
+  width: 400px;
+  height: 300px;
+  margin: 5px;
+}
